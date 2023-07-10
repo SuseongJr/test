@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,7 +22,7 @@
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     
-    <c:chooose>
+    <c:choose>
     	<c:when test="${empty sessionScope.principal}">
     	
     		<ul class="navbar-nav">
@@ -50,7 +50,7 @@
 		    </ul>
 		    
     	</c:otherwise>
-    </c:chooose>
+    </c:choose>
     
     
     

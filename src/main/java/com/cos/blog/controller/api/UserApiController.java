@@ -1,5 +1,7 @@
 package com.cos.blog.controller.api;
 
+import javax.servlet.http.HttpSession;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -10,8 +12,6 @@ import com.cos.blog.dto.ResoponseDto;
 import com.cos.blog.model.RoleType;
 import com.cos.blog.model.User;
 import com.cos.blog.service.UserService;
-
-import jakarta.servlet.http.HttpSession;
 
 @RestController
 public class UserApiController {
