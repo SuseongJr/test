@@ -28,16 +28,17 @@ public class UserApiController {
 		return new ResoponseDto<Integer>(HttpStatus.OK.value(), 1);
 	}
 	
-	@PostMapping("/api/user/login")
-	public ResoponseDto<Integer> login(@RequestBody User user, HttpSession session) {
-		System.out.println("UserApiController: login 호출됨.");
-		User principal = userService.로그인(user); // principal: 접근주체
-		
-		if(principal != null) {
-			session.setAttribute("principal", principal);
-		}
-		
-		return new ResoponseDto<Integer>(HttpStatus.OK.value(), 1);
-	}
+	// 스프링 시큐리티를 이용하면 해당 방식 사용하지 않음.
+//	@PostMapping("/api/user/login")
+//	public ResoponseDto<Integer> login(@RequestBody User user, HttpSession session) {
+//		System.out.println("UserApiController: login 호출됨.");
+//		User principal = userService.로그인(user); // principal: 접근주체
+//		
+//		if(principal != null) {
+//			session.setAttribute("principal", principal);
+//		}
+//		
+//		return new ResoponseDto<Integer>(HttpStatus.OK.value(), 1);
+//	}
 	
 }
