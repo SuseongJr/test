@@ -4,9 +4,9 @@ let index = {
 			this.save();
 		});
 		
-		$("#btn-login").on("click", ()=>{
-			this.login();
-		});
+//		$("#btn-login").on("click", ()=>{
+//			this.login();
+//		});
 	},
 	
 	save: function() {
@@ -21,7 +21,7 @@ let index = {
 		$.ajax({
 			// 회원가입 수행 요청 -> 성공 / 실패
 			type: "POST",
-			url: "/api/user",
+			url: "/auth/joinProc",
 			data: JSON.stringify(data),
 			contentType: "application/json; charset=utf-8",
 			dataType: "json"
@@ -36,7 +36,7 @@ let index = {
 		
 	},
 	
-	login: function() {
+/*	login: function() {
 		// alert('user의 save함수 호출됨.');
 		let data = {
 			username: $("#username").val(),
@@ -61,6 +61,7 @@ let index = {
 		}); // ajax를 이용해 3개의 데이터를 json으로 변경해 insert 요청
 		
 	}
+*/
 }
 
 index.init();
