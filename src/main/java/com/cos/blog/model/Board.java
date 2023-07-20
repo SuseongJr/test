@@ -38,8 +38,7 @@ public class Board {
 	
 	@Lob // 대용량 데이터
 	private String content; // 섬머노트 사용할 것
-	
-	@ColumnDefault("0")
+
 	private int count; // 조회수
 	
 	@ManyToOne(fetch = FetchType.EAGER) // Many = Board, One = User -> 한 명의 유저는 여러 게시글을 쓸 수 있음.
