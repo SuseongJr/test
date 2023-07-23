@@ -3,20 +3,22 @@
 <%@ include file="layout/header.jsp" %>
 
 <div class="container">
-  
-  <div class="card m-2">
 
+<c:forEach var="board" items="${boards}">
+
+  <div class="card m-2">
     <div class="w3-container w3-center">
 	      <div class="card-body">
 	      
-	      	<h4 class="card-title">제목</h4>
-	      	<a href="#" class="btn btn-primary">상세보기</a>
+	      	<h4 class="card-title">${board.title}</h4>
+	      	<a href="#" class="btn btn-primary">${boarad.content}</a>
 	      	
 	      </div>
 
     </div>
-
-</div>
+  </div>
+  
+</c:forEach>
   
 </div>
 
