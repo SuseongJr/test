@@ -23,6 +23,10 @@
  <!-- 페이징 -->
 <ul class="pagination justify-content-center">
 
+<c:if test="${!boards.first}">
+	<li class="page-item"><a class="page-link" href="?page=0">First</a></li>
+</c:if>
+
 <c:choose>
 	<c:when test="${boards.first}">
 		<li class="page-item disabled"><a class="page-link" href="?page=${boards.number-1}">Previous</a></li>
@@ -32,9 +36,19 @@
 	</c:otherwise>
 </c:choose>
 
-<c:forEach var="i" begin="1" end="${boards.totalPages}">
-    <li class="page-item"><a class="page-link" href="?page=${i-1}">${i}</a></li>
+
+<c:forEach var="i" begin="${firstPage}" end="${lastPage}">
+    <c:choose>
+        <c:when test="${i eq boards.number+1}">
+            <li class="page-item active"><a class="page-link" href="?page=${i -1}">${i}</a></li>
+        </c:when>
+        <c:otherwise>
+            <li class="page-item"><a class="page-link" href="?page=${i -1}">${i}</a></li>
+        </c:otherwise>
+    </c:choose>
 </c:forEach>
+
+
 
 <c:choose>
 	<c:when test="${boards.last}">
@@ -44,8 +58,14 @@
 		<li class="page-item"><a class="page-link" href="?page=${boards.number+1}">Next</a></li>
 	</c:otherwise>
 </c:choose>
-  
+
+<c:if test="${!boards.last}">
+	<li class="page-item"><a class="page-link" href="?page=${boards.totalPages-1}">Last</a></li>
+</c:if>
+
 </ul>
+
+<div class="pagination justify-content-center">${currentPage} / ${totalPage} Page</div>
   
 </div>
 
