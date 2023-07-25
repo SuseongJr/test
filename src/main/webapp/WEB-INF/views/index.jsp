@@ -11,7 +11,7 @@
 	      <div class="card-body">
 	      
 	      	<h4 class="card-title">${board.title}</h4>
-	      	<a href="#" class="btn btn-primary">상세보기</a>
+	      	<a href="/board/${board.id}" class="btn btn-primary">상세보기</a>
 	      	
 	      </div>
 
