@@ -22,6 +22,19 @@ public class UserService {
 	@Autowired
 	private BCryptPasswordEncoder encoder;
 	
+	@Transactional(readOnly = true)
+	public User 회원찾기(String username) {
+
+		System.out.println("444444444444444");
+		User user = userRepository.findByUsername(username).orElseGet(() -> {
+			return new User();
+		});
+		
+		System.out.println("555555555555555");
+		
+		return user;
+	}
+	
 	@Transactional
 	public void 회원가입(User user) {
 		String rawPassword = user.getPassword(); // 1234 원문
