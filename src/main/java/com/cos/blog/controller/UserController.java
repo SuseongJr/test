@@ -126,9 +126,8 @@ public class UserController {
 				.username(kakaoProfile.getKakao_account().getEmail() + "_" + kakaoProfile.getId())
 				.password(cosKey)
 				.email(kakaoProfile.getKakao_account().getEmail())
+				.oauth("kakao")
 				.build();
-		
-		System.out.println("111111111111111");
 		
 		// 이미 가입된 사람인지 확인 후 처리
 		User originUser = userService.회원찾기(kakaoUser.getUsername());
@@ -137,14 +136,13 @@ public class UserController {
 			System.out.println("기존 회원이 아닙니다.");
 			userService.회원가입(kakaoUser);
 		}
+		System.out.println("자동 로그인 진행합니다.");
 
-		System.out.println("222222222222222");
 		// null이 아니면 바로 로그인 처리.
 		Authentication authentication 
 			= authenticationManager.authenticate(new UsernamePasswordAuthenticationToken(kakaoUser.getUsername(), cosKey));
 		SecurityContextHolder.getContext().setAuthentication(authentication);
 
-		System.out.println("3333333333333333");
 		return "redirect:/";
 	}
 	
