@@ -30,12 +30,17 @@ let index = {
 			contentType: "application/json; charset=utf-8",
 			dataType: "json"
 		}).done(function(_resp) {
-			alert("회원가입 완료.");
-			// alert(_resp);
-			// console.log(_resp);
-			location.href = "/";
+			if(_resp.status === 500) {
+				console.log(_resp);
+			} else {
+				alert("회원가입 완료.");
+				// alert(_resp);
+				console.log(_resp);
+				ocation.href = "/";
+			}
 		}).fail(function(error) {
-			alert(JSON.stringify(error));
+			alert("회원가입 실패: 중복 아이디");
+			// alert(JSON.stringify(error));
 		}); // ajax를 이용해 3개의 데이터를 json으로 변경해 insert 요청
 		
 	},

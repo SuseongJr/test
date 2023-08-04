@@ -3,6 +3,7 @@ package com.cos.blog.model;
 import java.sql.Timestamp;
 import java.util.List;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -48,7 +49,7 @@ public class Board {
 	@JoinColumn(name = "userId")
 	private User user; // DB는 오브젝트 저장 불가. fk, java는 오브젝트 저장 가능
 	
-	@OneToMany(mappedBy = "board", fetch = FetchType.EAGER) // mappedBy : 연관관계의 주인이 아님(FK가 아님) -> db에 컬럼 만들지 않음
+	@OneToMany(mappedBy = "board", fetch = FetchType.EAGER, cascade = CascadeType.REMOVE) // mappedBy : 연관관계의 주인이 아님(FK가 아님) -> db에 컬럼 만들지 않음
 	@JsonIgnoreProperties({"board"}) // 무한 참조 방지.
 	// @OrderBy("id desc") 댓글 내림차순 정렬
 	private List<Reply> replys;

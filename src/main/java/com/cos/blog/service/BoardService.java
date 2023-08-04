@@ -19,17 +19,17 @@ import com.cos.blog.repository.BoardRepository;
 import com.cos.blog.repository.ReplyRepository;
 import com.cos.blog.repository.UserRepository;
 
+import lombok.RequiredArgsConstructor;
+
 @Service
+@RequiredArgsConstructor // @Autowired를 사용하지 않아도 되게 해줌.
 public class BoardService {
 	
-	@Autowired
-	private UserRepository userRepository;
+//	@Autowired
+//	private UserRepository userRepository;
 
-	@Autowired
-	private BoardRepository boardRepository;
-	
-	@Autowired
-	private ReplyRepository replyRepository;
+	private final BoardRepository boardRepository;
+	private final ReplyRepository replyRepository;
 	
 	@Transactional
 	public void 글쓰기(Board board, User user) { // title, content를 받음.
