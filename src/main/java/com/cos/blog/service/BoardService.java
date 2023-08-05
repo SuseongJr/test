@@ -94,4 +94,11 @@ public class BoardService {
 		int reply = replyRepository.mSave(replySaveRequestDto.getUserId(), replySaveRequestDto.getBoardId(), replySaveRequestDto.getContent());
 		System.out.println(reply);
 	}
+	
+	@Transactional
+	public void 댓글삭제(int replyId) {
+		System.out.println("333");
+		replyRepository.deleteById(replyId);
+		System.out.println("444");
+	}
 }
