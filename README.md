@@ -41,13 +41,14 @@
 
 * 글 작성, 작성 후
   
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMjcy/MDAxNjkxMjg1MzMzNzE0.FiKSzlg4HCLGhyDPHwTvGzwfAKkHBVw3xW7OwzwZ3GQg._DVRYPykLQCVc60hZM6Ow3H0U4zsIAcvjHCwiXKSTj8g.PNG.eoghks810/스크린샷_2023-08-06_오전_10.28.43.png?type=w580)
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMTMx/MDAxNjkxMjg1MzY3Mzcx.-39C8v6WVbVVLXVVadA5freWdbq1ZNupiln1Kkn5nBAg.7wx3K2trqPPhXS2uK9ma1OfX9dZUHKlwF9TeUwFFL1Mg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.29.08.png?type=w580)
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfOCAg/MDAxNjkxMjg1NDU1MDk3.uqCZ3kwfKCNqmlLdWwa-w2YG4GG1_oFRF3Oe0ERHBEgg.tz_pG1VZMCK-4SuL2WnrElBgyzooRpnSunlgjniaL3sg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.30.49.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/5fb5cb40-a699-4af5-bba6-94c3ba3065fb)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/b2e0e8ea-30b5-41cd-8dfa-b1812c0d08ea)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/82afef0e-eb0c-49df-914b-156bcb385d19)
 
 * 글 수정
   
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMjc2/MDAxNjkxMjg1NjkzMjE0.QW4FNodPdMRvL4xXbBrLOn-O4nSSKP_cZnv1AM8fUvkg.K6QrGt1Yxm2Jve238t22BTg-nzi_cEZUDtSmepdpcbYg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.34.36.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/4c3ff92a-042d-41bd-a0e6-08fe6e4807a3)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/d1eb8882-604d-4ea9-b1ec-606becbd0a91)
 
 본인이 작성한 글이 아닐 경우 수정, 삭제 버튼이 보이지 않음
 
