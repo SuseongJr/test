@@ -52,12 +52,13 @@
 
 본인이 작성한 글이 아닐 경우 수정, 삭제 버튼이 보이지 않음
 
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMjAz/MDAxNjkxMjg1NjIyMDg1.5pQ5heUt-qIFCJFNOi8Y2DLlfz_qgVXl6XRfpS0c91Eg.R8fkQEryS-h_4IbnB5fyMFzf8s5TJDnudq7uSUSUadwg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.33.33.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/5f729dd0-f26b-478c-96dc-33498816b962)
 
 * 댓글 작성
 
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMjk3/MDAxNjkxMjg2MjExMzQ1.Pka7YzBEOOvSsKMyDxwIwBjwJ84GuLkIxZDXI6Os5eAg.0bxb-xk-MaL58p3P69pUbVb2CRI791EA22dXTIumm5wg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.43.14.png?type=w580)
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMTQ5/MDAxNjkxMjg2MjE1OTYz.Zv2EjgPAqpuOxq6JJwH9sJOpKy5PCWYlzuM_gmZnyD4g.1BwIrrC4uA8hGzXiFjPed4CvXpWDeF7Y9kE7Qtt0ppMg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.43.24.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/e01ea201-59c0-4d72-97bb-d7d2febb7ed4)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/5ecb2328-f193-4715-ab5b-8ca3a360edab)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/55c60ff8-a355-4220-9182-2684aeebe859)
 
 * 댓글 삭제
 
