@@ -71,11 +71,11 @@
 ![이미지](https://github.com/SuseongJr/test/assets/106290891/7a5439c1-97c6-4574-9876-f00cdec9596b)
 ![이미지](https://github.com/SuseongJr/test/assets/106290891/c61df02a-f64f-45bd-be5c-31409f7b5fe6)
 
-* 회원 정보
+* 회원정보, 회원정보 수정
 
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMTg1/MDAxNjkxMjg2NTIxNDAy.RQkgUpLZ73ETp9hb-eVTnJLM-qEh0puhu_SGwbtXz0Mg.2GvRq_9Y3Ms4cI0ngDtvfsPbh2SG9y9gX3Fl6bn_18wg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.48.29.png?type=w580)
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMjM0/MDAxNjkxMjg2NTcyNjc2.0WgYYPcbXavjUJQmvkiYd5SajRaI0XLJJvnxCUvhJx4g.iyu842HFJC88iQ1AG8XP2Py2RZxECbB9cUXScjFxD_cg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.48.55.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/b04fefab-93d3-472b-a222-721debf85747)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/0e2338a3-63e7-459d-abcf-318fab57cad2)
 
 카카오 로그인을 한 사용자일 경우 비밀번호 변경 불가
 
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMjcg/MDAxNjkxMjg2NzAyNDE3.bwJBBIZNSU8lYFeTqZ342Jg4z-rcK8Rk0in-iktvNSgg.uAANLrd3tGvjlKCdMJSdyLyINQRJapJky-WITI0mqacg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.51.25.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/fd4a17e0-7e9c-40e2-925e-f85fa02893d9)
