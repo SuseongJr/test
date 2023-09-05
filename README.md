@@ -23,8 +23,12 @@
 ## 페이지 화면
 * 회원가입 화면, 회원가입 완료
   
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMjAy/MDAxNjkxMjgzNTg3Nzgw.RfCH1H3ra7sMu8FONMIQxn26IntlUzpz55C3OfIsA5Yg.k_crxiRxBp7rQbWKE9ks1PhONLqB2eqngt6pRAA3MGAg.PNG.eoghks810/스크린샷_2023-08-06_오전_9.56.35.png?type=w580)
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMTU0/MDAxNjkxMjg3MTA3MDkx.7vea6gZHE4w4BuPGu9EafAi--1ENdn3OR8FpUSA59nog.mgt0c64-voEH_3DmVSXdkle4NZmy-o0UXEiErKjbx-Mg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.58.03.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/067e77cf-dc41-45c7-b38c-3bebfba02abd)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/d264b3be-81cd-4f00-9060-4bddf5316851)
+
+이미 가입된 아이디일 경우 재가입 불가
+
+![이미지](https://github.com/SuseongJr/test/assets/106290891/19cf6fb9-bd7b-4cc5-9c28-ccd320be8437)
 
 * 로그인 화면, 카카오 로그인
   
