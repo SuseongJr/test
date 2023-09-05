@@ -32,12 +32,12 @@
 
 * 로그인 화면, 카카오 로그인
   
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMzYg/MDAxNjkxMjg0MDI3OTQy.Sv40NTI0utaNQUJDnM-PsgR3O-1swCucQZ_VYf4TPfYg.UpUpV15GJh8TiNkkNtxNFyawzSbuV7I5n-nZNlgRRqYg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.00.05.png?type=w580)
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMTIz/MDAxNjkxMjg0MzQ0NzQ2.Dg4WNOFg4p33ODRmglDb0HMfHiAz3h6o9jGE5pBYPcwg.CeEmZfaGvRnC9PL0s0qNcSZKVFrQfxo7tw7-qgpNkscg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.12.01.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/de0ab1ec-f06e-4f20-9712-4314590d04a7)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/89843bc3-25f4-46d0-9aa8-493bcd1850ab)
 
 * 메인 화면
 
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMjY4/MDAxNjkxMjg0OTg4MzYx.PR5T0iP2yJ9zmehfAPGT7MvVFjmQVSx0HH2UkJrYxbUg.MlJANBpI01EcvkiV0UkGMQ-z0eL5GzlR3nBXtCt6fdwg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.22.55.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/e821f41f-66c9-4563-adc5-49e5cdde3587)
 
 * 글 작성, 작성 후
   
