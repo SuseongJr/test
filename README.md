@@ -62,13 +62,14 @@
 
 * 댓글 삭제
 
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfODMg/MDAxNjkxMjg2Mzc5NjY5.lRKaeNMoBC1u6eNJgHhrbYiUknSKHPlJ679MUkg2WuUg.lrNQW0Q5CHTjQfongchLgrSNfQgFKwrj27bsSQ-Fy7Qg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.45.52.png?type=w580)
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfNTAg/MDAxNjkxMjg2MzgzODcx.022CKI3pM6MYW1dSZCKojvZox_8iXostxF9VUUgSY9Ig.YVm3j1GYNWl0ZLOvI6zep3whQm6W-UUcOKRERc1u8Akg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.46.12.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/1a5458b9-5b74-4354-b4d2-d79c62e1ec7e)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/c9e07919-bfa9-4199-b7f7-fcab19c38bd5)
 
 * 게시글 삭제, 삭제 후
   
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfMjA4/MDAxNjkxMjg2NDgwNTI3.ZPjY9mXSckpWVg3bGQLIf9GPLQ-M4qg49cOeQlFJbGcg.dEPxRspJ__5OwS0f_AvKcsz-MxTOitdJx3wec5as_L0g.PNG.eoghks810/스크린샷_2023-08-06_오전_10.47.39.png?type=w580)
-![이미지](https://postfiles.pstatic.net/MjAyMzA4MDZfNDIg/MDAxNjkxMjg2NDgzMDQ3.hYM__JjsmWjpImmmzgyA0Qngh15PyfPyXVu--BVUwVwg.z7a2sWPinVBlIslXDwXm6LFUtgdNyGf82-A1yL0Xxrgg.PNG.eoghks810/스크린샷_2023-08-06_오전_10.47.54.png?type=w580)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/30c17a17-e69a-4283-90fa-b145d5e730f9)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/7a5439c1-97c6-4574-9876-f00cdec9596b)
+![이미지](https://github.com/SuseongJr/test/assets/106290891/c61df02a-f64f-45bd-be5c-31409f7b5fe6)
 
 * 회원 정보
 
